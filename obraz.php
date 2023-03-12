@@ -2,8 +2,8 @@
 
 //Warianty:
 //1 - Zachowaj proporcje i nie przekrocz podanych wymiarow
-//2 - Zachowaj proporcje i zape�nij podane wymiary
-//3 - Przeskaluj dok�adnie do podanych wymiar�w
+//2 - Zachowaj proporcje i zapełnij podane wymiary
+//3 - Przeskaluj dokładnie do podanych wymiarów
 
 function obraz_wyswietl($adres, $szerokosc = 0, $wysokosc = 0, $wariant = 1, $znakwodny = 0)
 {
